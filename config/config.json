@@ -19,6 +19,6 @@
     "database": "railway",
     "host": "containers-us-west-36.railway.app",
     "port": "5643",
-    "dialect": "mysql",
+    "dialect": "mysql"
   }
 }
