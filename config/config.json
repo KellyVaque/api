@@ -18,6 +18,7 @@
     "password": "24N8lViMLHqooqHgXI1b",
     "database": "railway",
     "host": "containers-us-west-36.railway.app",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "port": "5643",
   }
 }
